@@ -8,7 +8,7 @@ Singly linked list is a linear collection of data structures which consists of a
 <br>
 Components of Singly Linked Lists: <br>
 &#8594; Node: <br>
-Each node contains _data_ or the actual information or value of the node and _next_ which is a pointer or reference to the next node in the list. If it’s the last node, this pointer is _null_ or _None_.
+Each node contains _data_ or the actual information or value of the node and _next_ which is a pointer or reference to the next node in the list. If it’s the last node, this pointer is _null_ or _None_. <br>
 &#8594; Head: <br>
 The first node of the linked list. If the list is empty, the head is null. <br>
 <br>
