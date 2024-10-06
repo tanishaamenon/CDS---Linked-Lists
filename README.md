@@ -13,9 +13,9 @@ Each node contains _data_ or the actual information or value of the node and _ne
 The first node of the linked list. If the list is empty, the head is null. <br>
 <br>
 Characteristics of Singly Linked Lists: <br>
-&#8594; Dynamic Size: <br>
-&#8594; Efficient insertions/ deletions of elements <br>
-&#8594; No backward traversals <br>
+&#8594; Dynamic Size. <br>
+&#8594; Efficient insertions/ deletions of elements. <br>
+&#8594; No reverse traversals. <br>
 
 
 <br>
